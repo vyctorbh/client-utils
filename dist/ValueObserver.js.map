@@ -1,0 +1,1 @@
+{"version":3,"file":"ValueObserver.js","sourceRoot":"","sources":["../src/ValueObserver.ts"],"names":[],"mappings":";;AAGA;;;;;;;;;;;;;;;;;;;;;;GAsBG;AACH,MAAa,aAAa;IAQtB;;OAEG;IACH,YAA6B,UAA8B,EAAS,QAAgC;QAAvE,eAAU,GAAV,UAAU,CAAoB;QAAS,aAAQ,GAAR,QAAQ,CAAwB;IAEpG,CAAC;IAZD;;OAEG;IACI,OAAO;QACV,IAAI,CAAC,UAAU,CAAC,WAAW,CAAC,IAAI,CAAC,CAAC;IACtC,CAAC;CAQJ;AAdD,sCAcC"}
